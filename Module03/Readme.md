@@ -31,6 +31,9 @@
   - Add links to any resources used. This includes results of google-searches, Stack-Overflow posts, blog-posts, etc.
 4. Add a link to the repo to BBLearn as your "Assignment".
 
+![alt text](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-pahelipatel97/blob/master/Module03/pregnancy_wheel.png)
+https://stackoverflow.com/questions/37822478/python-adding-any-number-of-days-to-date
+
 ### Pregnancy Wheel
 
 Estimating the gestational age of a fetus is a critical first step in caring for newly pregnant women.
